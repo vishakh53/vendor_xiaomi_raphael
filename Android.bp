@@ -239,6 +239,12 @@ dex_import {
 }
 
 dex_import {
+	name: "volley",
+	owner: "xiaomi",
+	jars: ["proprietary/framework/volley.jar"],
+}
+
+dex_import {
 	name: "com.android.hotwordenrollment.common.util",
 	owner: "xiaomi",
 	jars: ["proprietary/system_ext/framework/com.android.hotwordenrollment.common.util.jar"],
